@@ -1,6 +1,6 @@
 # Hi, I'm Bishal Nath 👋
 
-### AI Product Developer | Generative AI Builder | Full-Stack Engineer | AI/ML Student
+### Building Real AI Products | Next.js · React · Python · FastAPI | Shipped HeyVN AI (GenAI SaaS) | Open to Internships
 
 I build AI-powered applications and full-stack web products focused on solving practical problems through software.
 
