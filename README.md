@@ -39,6 +39,7 @@ CareerGate connects students and industry users while providing AI-powered skill
 - Resume-based career guidance
 - Industry job requirements
 
+🌐 **Live:** https://careergatewell.netlify.app/
 🔗 **Repository:** https://github.com/Vishal-Nath-18/CareerGate
 
 ---
